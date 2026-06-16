@@ -1,0 +1,40 @@
+{
+  "name": "Flero Source",
+  "subtitle": "Flero",
+  "description": "Flero Has Came To ALT",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Flero",
+      "bundleIdentifier": "com.sp67.flero",
+      "marketplaceID": "",
+      "developerName": "speedyfrienx67",
+      "subtitle": "",
+      "localizedDescription": "",
+      "tintColor": "#e45c0c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.mediafire.com/file/q1fga5ow8j7fawk/Flero_v0.0.9-4.ipa/file?dkey=okr3s4zg787&r=1520",
+          "size": 128000000,
+          "version": "2.2081",
+          "buildVersion": "",
+          "date": "2026-06-16T07:00:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
