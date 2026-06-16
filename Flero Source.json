@@ -4,9 +4,11 @@
   "description": "Flero Has Came To ALT",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://sites.google.com/view/flero/home",
-  "patreonURL": "",
+  "patreonURL": "https://mangoisbrrakityoustypidmangos",
   "tintColor": "#6156e2",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.sp67.flero"
+  ],
   "apps": [
     {
       "name": "Flero",
