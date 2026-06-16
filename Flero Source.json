@@ -1,0 +1,60 @@
+{
+  "name": "Flero Source",
+  "subtitle": "Flero",
+  "description": "Flero Has Came To ALT",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://sites.google.com/view/flero/home",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Flero",
+      "bundleIdentifier": "com.sp67.flero",
+      "marketplaceID": "",
+      "developerName": "speedyfrienx67",
+      "subtitle": "Official release. Fully compatible with AltStore, SideStore, and Scarlet without requiring JIT.",
+      "localizedDescription": "Flero",
+      "tintColor": "#e45c0c",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://filebin.net/172qkq7nj7rvwytb",
+          "size": 162100000,
+          "version": "2.208",
+          "buildVersion": null,
+          "date": "2026-06-16T14:59:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "2.2081",
+          "date": "2026-06-16T07:00:00+01:00",
+          "localizedDescription": null,
+          "downloadURL": "https://www.mediafire.com/file/q1fga5ow8j7fawk/Flero_v0.0.9-4.ipa/file?dkey=okr3s4zg787&r=1520",
+          "size": 128000000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New AltStore Repo!",
+      "identifier": "news_qkaea7g8vs",
+      "caption": "Introducing a new feature in Flero!",
+      "date": "2026-06-16T16:05",
+      "tintColor": "#6156e2",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.sp67.flero"
+    }
+  ]
+}
